@@ -17,5 +17,5 @@ grep -i -E "error|warning" "$LOGFILE" > "$CLEANFILE"
 COUNT=$(wc -l < "$CLEANFILE")
 
 # Show summary
-echo "✅ Done! Found $COUNT errors/warnings."
+echo "Done! Found $COUNT errors/warnings."
 echo "Check the clean file: $CLEANFILE"
