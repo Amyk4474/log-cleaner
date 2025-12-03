@@ -18,4 +18,4 @@ Log files are full of boring "INFO" lines. This script finds ONLY the important 
 
 Click above → Run `./clean-log.sh sample.log` → Watch it work like magic.
 
-## Sample Output
+Special thanks to my class labs and AI for ideas!
